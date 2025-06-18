@@ -12,6 +12,9 @@ L’objectif de ce projet est d’explorer et d’analyser un jeu de données co
 - Visualisations graphiques
 - Exportation des données nettoyées
 - Analyse univariée et bivariée
+- Estimation statistique
+- Intervalle de confiance
+- Tests statistiques
 
 ## 📁 Contenu du dépôt
 
@@ -20,7 +23,9 @@ L’objectif de ce projet est d’explorer et d’analyser un jeu de données co
 | `Student_Depression.csv`            | Jeu de données original |
 | `Student_Depression_cleaned.csv`    | Jeu de données nettoyé (après traitement des NA et valeurs aberrantes) |
 | `My_codes.R`        | Script R utilisé pour l'analyse |
+| `Stat_inferentielle.ipynb`        | Script Python utilisé pour l'analyse |
 | `STAT_DESCRIPTIVE.pdf`                      | Rapport d'analyse |
+| `STAT_INFERENTIELLE.pdf`                      | Rapport d'analyse |
 | `README.md`                      | Description du projet |
 
 ## 🛠️ Technologies utilisées
@@ -32,6 +37,11 @@ L’objectif de ce projet est d’explorer et d’analyser un jeu de données co
 - package Dagnogo
 - RVaideMemoire
 - ggplot2
+- Python
+- Pandas
+- Seaborn, Matplotlib
+- sklearn.impute
+- scipy.stats.mstats
 
 ## ✍️ Auteur
 
